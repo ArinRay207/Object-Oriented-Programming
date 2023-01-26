@@ -1,5 +1,4 @@
 /*
-
     Each cricketer has name, date of birth and matches played. Cricketer may be a
     bowler or batsman. For a bowler, number of wickets taken, average economy is
     stored. For a batsman, total runs scored, average score is stored. A double
